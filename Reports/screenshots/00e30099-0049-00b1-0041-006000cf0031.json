@@ -1,0 +1,1 @@
+{"description":"Verify Home icon is present on the Landing/Home page after Login| Verifying Home Page ","passed":false,"pending":true,"os":"Windows","instanceId":11312,"browser":{"name":"chrome","version":"79.0.3945.88"},"message":"Temporarily disabled with xit","browserLogs":[],"screenShotFile":"00e30099-0049-00b1-0041-006000cf0031.png","timestamp":1578407982274,"duration":0}

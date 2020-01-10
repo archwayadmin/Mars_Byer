@@ -1,0 +1,1 @@
+{"description":"Verify BrowseProduct icon is present on the Landing/Home page after Login| Verifying Home Page ","passed":true,"pending":false,"os":"Windows","instanceId":8356,"browser":{"name":"chrome","version":"79.0.3945.88"},"message":"Passed.","trace":"","browserLogs":[],"screenShotFile":"007000a3-0046-00c1-00a6-007500d40079.png","timestamp":1578408207136,"duration":131}

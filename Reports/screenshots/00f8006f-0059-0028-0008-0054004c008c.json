@@ -1,0 +1,1 @@
+{"description":"Verify MyOrders icon is present on the Landing/Home page after Login| Verifying Home Page ","passed":false,"pending":true,"os":"Windows","instanceId":8356,"browser":{"name":"chrome","version":"79.0.3945.88"},"message":"Temporarily disabled with xit","browserLogs":[],"screenShotFile":"00f8006f-0059-0028-0008-0054004c008c.png","timestamp":1578408207677,"duration":0}

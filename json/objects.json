@@ -1,0 +1,16 @@
+{ 
+   "testsiteurl":"https://archway-forduaw-qa.azurewebsites.net/profile/details",
+   "locators":{ 
+      "Loginpage":{ 
+         "username":"//input[@id='username']",
+         "password":"//input[@id='password']",
+         "submitBtn":"//button[@id='submitBtn']",
+         "forgotpwd":"Forgot Password",
+         "contactus":"Contact Us",
+         "rememberme":"Remember Me",
+         "title":"Premier Nutrition Buyer",
+         "userlabel":"User Name"
+      }
+   }
+}
+

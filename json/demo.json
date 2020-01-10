@@ -1,0 +1,50 @@
+{ 
+   "testdataforquickAdd":{ 
+      "item":"2016 BMC Water Bottle",
+      "qty":"2",
+      "itemlabel":"Item",
+      "qtylabel":"Qty",
+      "quickAddHeader":"Quick Add",
+      "quickAddDesc":"Know the Item?",
+      "sortbytext":"Sort By",
+      "refineby":"Refine By",
+      "myfav":"My Favorites",
+      "qtyerrormsg":"Qty is required",
+      "minqtyerrormsg":"At least 1 must be ordered",
+      "itemstext":"Items",
+      "ordersummrytext":"Order Summary",
+      "removetext":"Remove Item",
+      "statustext":"Status",
+      "Priceext":"Price",
+      "Qtytext":"Qty",
+      "Totaltext":"Total",
+      "Subtotaltext":"Subtotal",
+      "Itemstext":"Items",
+      "continueshppintext":"Continue Shopping",
+      "clearcarttext":"Clear Cart"
+   },
+   "AddItemByList":{ 
+      "viewAllText":"View All Pro",
+      "qtyforlist":"2",
+      "itemlabel":"Item",
+      "qtylabel":"Qty"
+   },
+   "AddItemByGrid":{ 
+      "viewAllText":"View All Pro",
+      "qtyforgrid":"2",
+      "itemlabel":"Item",
+      "qtylabel":"Qty"
+   },
+   "AddItemByTable":{ 
+      "viewAllText":"View All Pro",
+      "qtyfortable":"3",
+      "itemlabel":"Item",
+      "qtylabel":"Qty"
+   },
+   "AddItemBySearch":{ 
+      "searchitem":"643843716341",
+      "qtyforsearch":"3",
+      "itemlabel":"Item",
+      "qtylabel":"Qty"
+   }
+}

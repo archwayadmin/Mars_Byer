@@ -1,0 +1,56 @@
+{ 
+   "testdataforquickAdd":{
+    
+      "item":"Confined Space Entry Permit (Permit-Rqrd 2009) - Pk/50",
+      "product":[{"item":"ECPL Lockout Danger Tags - Pk/100","qty":12},{"item":"ECPL Lockout Danger Tags - Pk/100","qty":13},{"item":"PP Clear Tropical Punch","qty":4}],
+      "qty":"12",
+      "itemlabel":"Item",
+      "qtylabel":"Qty",
+      "quickAddHeader":"Quick Add",
+      "quickAddDesc":"Know the Item?",
+      "sortbytext":"Sort By",
+      "refineby":"Refine By",
+      "myfav":"My Favorites",
+      "qtyerrormsg":"Qty is required",
+      "minqtyerrormsg":"At least 1 must be ordered",
+      "itemstext":"Items",
+      "ordersummrytext":"Order Summary",
+      "removetext":"Remove Item",
+      "statustext":"Status",
+      "Priceext":"Price",
+      "Qtytext":"Qty",
+      "Totaltext":"Total",
+      "Subtotaltext":"Subtotal",
+      "Itemstext":"Items",
+      "continueshppintext":"Continue Shopping",
+      "clearcarttext":"Clear Cart"
+   },
+   "AddItemByList":{ 
+      "viewAllText":"View All Pro",
+      "qtyforlist":"2",
+      "itemlabel":"Item",
+      "qtylabel":"Qty",
+      "ListText":"List",
+       "DisplayText":"Display"
+      
+   },
+   "AddItemByGrid":{ 
+      "viewAllText":"View All Pro",
+      "qtyforgrid":"2",
+      "itemlabel":"Item",
+      "qtylabel":"Qty",
+      "Gridtext":"Grid"
+   },
+   "AddItemByTable":{ 
+      "viewAllText":"View All Pro",
+      "qtyfortable":"3",
+      "itemlabel":"Item",
+      "qtylabel":"Qty"
+   },
+   "AddItemBySearch":{ 
+      "searchitem":"643843716341",
+      "qtyforsearch":"3",
+      "itemlabel":"Item",
+      "qtylabel":"Qty"
+   }
+}

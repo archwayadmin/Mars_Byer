@@ -1,0 +1,30 @@
+{ 
+   "testdata":{ 
+      "homepageurl":"https://archway-forduaw-qa.azurewebsites.net/home",
+      "hometext":"Home",
+      "BrowseProductstext":"BROWSE PRODUCTS",
+      "MyOrdersText":"My Orders",
+      "ReportsText":"'REPORTS",
+      "ShowAllText":"Show All »",
+      "downloadsummary":"Download order summary",
+      "AnnouncementsText":"Announcements",
+      "FeaturedProductsText":"Featured Products",
+      "AboutWebsiteText":"About Website",
+      "websiteText":"Welcome to the new Premier Nutrition ordering site! If you have any questions",
+      "OrderHistoryText":"Order History",
+      "OrderSummaryText":"Order Summary",
+      "OrderDateText":"Order Date",
+      "OrderStatusText":"Order Status",
+      "statusdate":"Status Date",
+      "TotalItems":"Total Items",
+      "TotalCost":"Total Cost",
+      "nametext":"Name",
+      "emailtext":"Email",
+      "contacttext":"Contact Number",
+      "messagetext":"Message",
+      "myprofile":"My Profile",
+      "address":"Addresses",
+      "logout":"Logout",
+      "copyrightText":"MARKETING SERVICES"
+   }
+}

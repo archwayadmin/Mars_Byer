@@ -1,0 +1,26 @@
+{ 
+   "testdata":{ 
+      "selectcountry":"Canada ",
+      "firstname":"test",
+      "LastName":"test",
+      "companyName":"",
+      "address1":"address1",
+      "address2":"address2",
+      "CityName":"test",
+      "selectstate":"British Columbia",
+      "zipCod":"A1A1A1",
+      "phoneNumber":"1234567899",
+      "selectShippingMethod":"UPS GROUND COMMERCIAL",
+      "comments":" test",
+      "deliveryInstruction":"User Name",
+      "warehouseInstruction":"User Name",
+      "OrderSubmittedText":"Order Submitted",
+      "ShoppingCartText":"Shopping Cart",
+      "messageafterclearingCart":"You do not have any items in your cart",
+      "ordernumbertext":"Order Number",
+      "datesubmittesText":"Date Submitted",
+      "ShippingMethodText":"Shipping Method",
+      "SubtotalText":"Subtotal"
+      
+  }
+}
